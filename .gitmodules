@@ -1,0 +1,6 @@
+[submodule "mycalc/external/imgui"]
+	path = mycalc/external/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "mycalc/external/glfw"]
+	path = mycalc/external/glfw
+	url = https://github.com/glfw/glfw.git

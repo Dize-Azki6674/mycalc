@@ -1,0 +1,6 @@
+{
+  "dependencies": [
+    "boost-rational",
+    "boost-static-string"
+  ]
+}
